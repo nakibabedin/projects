@@ -4,3 +4,6 @@
 [submodule "Ripe_Tomatoes"]
 	path = Ripe_Tomatoes
 	url = https://github.com/josephjeon30/LostAndFoundation.git
+[submodule "Amazing_Dungeon"]
+	path = Amazing_Dungeon
+	url = https://github.com/9qb/PBNJ.git
