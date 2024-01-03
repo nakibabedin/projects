@@ -1,5 +1,8 @@
 # Systems-Project-the-Second-Myshell
 
+## Credits ##
+Salaj Rijal and Jefford Shau were my teammates for this project.
+
 ## Implemented Shell Features ##
 	Redirecting Output '>'
 	- Working
