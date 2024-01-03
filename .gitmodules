@@ -1,3 +1,6 @@
 [submodule "Twitter_Clone"]
 	path = Twitter_Clone
 	url = https://github.com/nakibabedin/FinalProjectSoftDev.git
+[submodule "Ripe_Tomatoes"]
+	path = Ripe_Tomatoes
+	url = https://github.com/josephjeon30/LostAndFoundation.git
